@@ -1,0 +1,28 @@
+body{
+    background-image: url(./Minecraft_Cover_Art.png);
+    background-size: contain;
+}
+.a{
+    background-color: rgb(103, 212, 76);
+    width: 50%;
+    margin: auto;
+}
+.b{
+    background-color: whitesmoke;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+footer{
+    background-color: darkgreen;
+    color: white;
+}
+button{
+    font-family: 'Courier New';
+    width: 100px;
+    border: 2px solid darkgreen;
+    border-radius: 99999999999999999999px;
+    background-color: greenyellow;
+    color: black;
+    font-size: 20px;
+}
